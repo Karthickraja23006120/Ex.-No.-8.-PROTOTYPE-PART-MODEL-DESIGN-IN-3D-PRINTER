@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![cura karthick](https://github.com/Karthickraja23006120/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139335315/9951864a-3362-4c8d-8566-c0a136c0b163)
 
 ### Name:
 ### Register Number:
